@@ -1,0 +1,19 @@
+body {
+    margin: 3rem auto;
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2,
+h3 {
+
+    margin-left: 25%;
+    margin-top: 25px;
+    color: cadetblue;
+
+}
+
+h2 {
+    color: blueviolet;
+
+}
